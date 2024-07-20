@@ -1313,7 +1313,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.constants-V2.0-java \
     com.quicinc.cne.constants-V2.1-java \
     dpmapi \
-    dpmapi \
     embmslibrary \
     qcrilhook \
     qti-telephony-common \

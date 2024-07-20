@@ -228,13 +228,6 @@ dex_import {
 }
 
 dex_import {
-	name: "dpmapi",
-	owner: "nokia",
-	jars: ["proprietary/system_ext/framework/dpmapi.jar"],
-	system_ext_specific: true,
-}
-
-dex_import {
 	name: "embmslibrary",
 	owner: "nokia",
 	jars: ["proprietary/system_ext/framework/embmslibrary.jar"],
