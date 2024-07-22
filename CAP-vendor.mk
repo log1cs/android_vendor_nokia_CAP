@@ -477,7 +477,9 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/CAP/proprietary/vendor/firmware/cppf.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/cppf.b07 \
     vendor/nokia/CAP/proprietary/vendor/firmware/cppf.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/cppf.mdt \
     vendor/nokia/CAP/proprietary/vendor/firmware/ili9881x_ts_InnoLux_fw.hex:$(TARGET_COPY_OUT_VENDOR)/firmware/ili9881x_ts_InnoLux_fw.hex \
+    vendor/nokia/CAP/proprietary/recovery/root/vendor/firmware/ili9881x_ts_InnoLux_fw.hex:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ili9881x_ts_InnoLux_fw.hex \
     vendor/nokia/CAP/proprietary/vendor/firmware/ili9881x_ts_InnoLux_mp.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/ili9881x_ts_InnoLux_mp.ini \
+    vendor/nokia/CAP/proprietary/recovery/root/vendor/firmware/ili9881x_ts_InnoLux_mp.ini:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ili9881x_ts_InnoLux_mp.ini \
     vendor/nokia/CAP/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
     vendor/nokia/CAP/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
     vendor/nokia/CAP/proprietary/vendor/firmware/ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b02 \
@@ -486,7 +488,9 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/CAP/proprietary/vendor/firmware/ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.elf \
     vendor/nokia/CAP/proprietary/vendor/firmware/ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.mdt \
     vendor/nokia/CAP/proprietary/vendor/firmware/novatek_ts_tianma_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_tianma_fw.bin \
+    vendor/nokia/CAP/proprietary/recovery/root/vendor/firmware/novatek_ts_tianma_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_tianma_fw.bin \
     vendor/nokia/CAP/proprietary/vendor/firmware/novatek_ts_tianma_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_tianma_mp.bin \
+    vendor/nokia/CAP/proprietary/recovery/root/vendor/firmware/novatek_ts_tianma_mp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts_tianma_mp.bin \
     vendor/nokia/CAP/proprietary/vendor/firmware/sec_s3nrn82_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn82_firmware.bin \
     vendor/nokia/CAP/proprietary/vendor/firmware/widevine.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.b00 \
     vendor/nokia/CAP/proprietary/vendor/firmware/widevine.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.b01 \
