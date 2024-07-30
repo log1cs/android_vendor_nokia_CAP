@@ -35,16 +35,19 @@ service vendor.adsprpcd /vendor/bin/adsprpcd
    class main
    user system
    group media
+   disabled
 
 service vendor.adsprpcd_audiopd /vendor/bin/adsprpcd audiopd
    class main
    user media
    group media
+   disabled
 
 service vendor.adsprpcd_sensorspd /vendor/bin/adsprpcd sensorspd
    class core
    user system
    group system
+   disabled
 
 on property:vendor.fastrpc.disable.adsprpcd_sensorspd.daemon=1
    stop vendor.adsprpcd_sensorspd
